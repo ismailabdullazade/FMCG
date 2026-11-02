@@ -1,0 +1,16 @@
+ProductKey,Brand,Segment,Flavor,PackSizeL,PackType,ListPrice,SKU,Manufacturer,IsClientBrand,Category,BrandKey
+1,AzurFresh,Carbonated Soft Drinks,Cola,0.5,PET,1.1,AzurFresh Cola 0.5L,AzurFresh Beverages (Client),1,Non-Alcoholic Beverages,1
+2,AzurFresh,Carbonated Soft Drinks,Lemon-Lime,1.5,PET,2.3,AzurFresh Lemon-Lime 1.5L,AzurFresh Beverages (Client),1,Non-Alcoholic Beverages,1
+3,AzurFresh,Iced Tea,Peach,0.5,PET,1.3,AzurFresh Peach 0.5L,AzurFresh Beverages (Client),1,Non-Alcoholic Beverages,1
+4,CoolWave,Carbonated Soft Drinks,Cola,0.5,PET,1.15,CoolWave Cola 0.5L,CoolWave Group,0,Non-Alcoholic Beverages,2
+5,CoolWave,Carbonated Soft Drinks,Orange,1.5,PET,2.4,CoolWave Orange 1.5L,CoolWave Group,0,Non-Alcoholic Beverages,2
+6,CoolWave,Iced Tea,Lemon,0.5,PET,1.35,CoolWave Lemon 0.5L,CoolWave Group,0,Non-Alcoholic Beverages,2
+7,NordSip,Juice,Apple,1.0,Carton,2.1,NordSip Apple 1.0L,Nordic Sip LLC,0,Non-Alcoholic Beverages,3
+8,NordSip,Juice,Orange,1.0,Carton,2.3,NordSip Orange 1.0L,Nordic Sip LLC,0,Non-Alcoholic Beverages,3
+9,NordSip,Carbonated Soft Drinks,Cola,0.33,Can,1.0,NordSip Cola 0.33L,Nordic Sip LLC,0,Non-Alcoholic Beverages,3
+10,VitaDrop,Juice,Multivitamin,0.2,Carton,0.9,VitaDrop Multivitamin 0.2L,VitaDrop Foods,0,Non-Alcoholic Beverages,4
+11,VitaDrop,Iced Tea,Green Tea,0.5,PET,1.5,VitaDrop Green Tea 0.5L,VitaDrop Foods,0,Non-Alcoholic Beverages,4
+12,VitaDrop,Juice,Pomegranate,1.0,Glass,3.4,VitaDrop Pomegranate 1.0L,VitaDrop Foods,0,Non-Alcoholic Beverages,4
+13,BazarSelect,Carbonated Soft Drinks,Cola,2.0,PET,2.2,BazarSelect Cola 2.0L,Private Label,0,Non-Alcoholic Beverages,5
+14,BazarSelect,Juice,Mixed Fruit,1.0,Carton,1.6,BazarSelect Mixed Fruit 1.0L,Private Label,0,Non-Alcoholic Beverages,5
+15,BazarSelect,Iced Tea,Peach,1.5,PET,1.9,BazarSelect Peach 1.5L,Private Label,0,Non-Alcoholic Beverages,5

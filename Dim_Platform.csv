@@ -1,0 +1,5 @@
+PlatformKey,Platform,PlatformType,PlatformWeight
+1,MarketHub,Marketplace,0.34
+2,QuickBasket,Quick Commerce,0.28
+3,FreshCart,Grocery Delivery,0.26
+4,Click&Collect,Click & Collect,0.12

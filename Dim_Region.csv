@@ -1,0 +1,7 @@
+RegionKey,Region,RegionWeight,Households,Zone
+1,Baku,0.46,640000,Capital
+2,Sumgait,0.1,105000,Capital
+3,Ganja,0.14,150000,West
+4,Lankaran,0.09,88000,South
+5,Shaki,0.08,74000,North
+6,Mingachevir,0.13,96000,Central
